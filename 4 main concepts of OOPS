@@ -1,6 +1,6 @@
 Encapsulation:
     In a class it contains all stuff like methods,variables,construcutor;
-    Basically it acts as a capsule where i contains all methods and variables for programs
+    Basically it acts as a capsule where it contains all methods and variables for programs
     All programs follow encapsulation
 Abstraction:
     While declaring a class we declare a variable as a private but even though if we print it with the help of public getname method we will be getting it.
@@ -8,4 +8,27 @@ Abstraction:
         In order to move a car drive must know the correct pedal to accerlate but it is not necessary to know the working of a accerlator.
 Inheritance:
     Keyword used for inheritance "extends"
-    
+    ->Method Overriding: 
+        Basically child class method overrides the previous function
+    ->Types of Inheritance:
+        ->Single level Inheritance (father-son)
+        ->Multilevel Inheritance (grandfather-father-son)
+        ->Heirarchical Inheritance (1father-2sons)
+        ->Hybrid Inheritance (Combining heirarchical & Multilevel)
+        ->Multiple Inheritance (2parents-1son)
+            (multiple Inheritance can be done only by abstract and interfaces)
+
+Polymorphism: 
+    Method which has many forms.One method can be resused with different signature.
+    -> Method overloading:
+         Method which can be used with different signatures .i.e parameters
+
+Keyword:
+ ->Static :
+        if we need to access a method in a class without creating an object for it means we will use it.
+        If we have a static variable as 50 and incase if we change it to 18 with child class the parent class variable will also change.
+        Advantage:
+            Memory space is not used for creating object
+ ->Final :
+        if we use final keyword to a variable it is globally constant over the entire program.It cant be changed.
+        

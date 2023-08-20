@@ -9,7 +9,7 @@
 
 // class is a blue print or a structure to a object
 
-class Applform{
+public class Applform{
     String name;//By default it is default access modifier 
     int rollno;//By default it is default access modifier 
     // Default access modifier can be called anywhere but in one package only

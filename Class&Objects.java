@@ -32,6 +32,7 @@ class Applform{
         // The keyword new allocates new memory space in the ram whereas next one is a default construcutor;
         Scanner sc=new Scanner(System.in);
         int x=sc.nextInt();
+        System.out.print(x);
         Hari.name="Hari";
         Hari.rollno=75;
         Hari.display();//This is function call 

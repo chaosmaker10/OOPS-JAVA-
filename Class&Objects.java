@@ -8,7 +8,7 @@
 // }
 
 // class is a blue print or a structure to a object
-
+import java.util.*;
 class Applform{
     String name;//By default it is default access modifier 
     int rollno;//By default it is default access modifier 

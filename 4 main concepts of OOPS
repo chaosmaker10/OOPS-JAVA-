@@ -1,0 +1,11 @@
+Encapsulation:
+    In a class it contains all stuff like methods,variables,construcutor;
+    Basically it acts as a capsule where i contains all methods and variables for programs
+    All programs follow encapsulation
+Abstraction:
+    While declaring a class we declare a variable as a private but even though if we print it with the help of public getname method we will be getting it.
+    For example:
+        In order to move a car drive must know the correct pedal to accerlate but it is not necessary to know the working of a accerlator.
+Inheritance:
+    Keyword used for inheritance "extends"
+    

@@ -27,6 +27,7 @@ class Applform{
         System.out.println(rollno);
     }
     
+    
     public static void main(String args[]){
         Applform Hari=new Applform();  //In this line we are creating an object Hari which follows the blueprint Applform.
         // The keyword new allocates new memory space in the ram whereas next one is a default construcutor;
